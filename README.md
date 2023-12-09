@@ -35,3 +35,5 @@ To get started with Byut, follow these simple steps:
 
    ```bash
    git clone https://github.com/mrigangka2003/Byut.git
+
+Now you're all set to explore the world of seamless e-commerce provided by Byut. Happy shopping!
